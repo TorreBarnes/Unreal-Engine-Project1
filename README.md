@@ -1,5 +1,5 @@
 # Unreal-Engine-Project1
-A repository to house a self driven landscape project developed using the Unreal Engine (4.20).
+### This repository was created to house a self driven landscape project developed using the Unreal Engine (4.20).
 
 __Project 1 was created using assets provided by Epic Games in the marketplace (Animation Starter Pack, Open World Demo Collection).__ I familiarized myself with basic concepts of the engine such as: 
 
