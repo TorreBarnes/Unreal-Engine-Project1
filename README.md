@@ -10,4 +10,6 @@ __Project 1 was created using assets provided by Epic Games in the marketplace (
 - __creating material functions using Blueprint__
 - __the pros and cons of using Blueprint versus using C++__
 
-
+- ![Project Still 1](https://github.com/TorreBarnes/Unreal-Engine-Project1/blob/master/Images/Stills.png)
+- ![Project Still 2](https://github.com/TorreBarnes/Unreal-Engine-Project1/blob/master/Images/Stills%202.png)
+- ![Project Still 3](https://github.com/TorreBarnes/Unreal-Engine-Project1/blob/master/Images/Stills%204.png)
